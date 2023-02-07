@@ -14,4 +14,4 @@ newmtl Material__45
 	Ni 1.520000
 	Ke 0.000000 0.000000 0.000000
 	illum 2
-	map_Kd -bm 0.000000 maps\piano3.tga
+	map_Kd piano3.png
