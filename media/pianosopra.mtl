@@ -42,5 +42,5 @@ newmtl PNG_MAPPA
 	Ni 1.52
 	Ke 0.00 0.00 0.00
 	illum 2
-	map_Kd -bm 0.00 maps\799_PNG MAPPA_6.tga
-	map_d -bm 0.00 maps\799_PNG MAPPA_6.tga
+	map_Kd 799_PNG MAPPA_6.png
+	map_d 799_PNG MAPPA_6.png
