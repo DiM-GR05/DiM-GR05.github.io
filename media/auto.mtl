@@ -1,207 +1,140 @@
-#
-## Alias OBJ Material File
-# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 10.02.2023 22:00:20
 
-newmtl Metal_ChromePoli
-Ka 0.000000 0.000000 0.000000
-Kd 0.501961 0.501961 0.501961
-Ks 0.330000 0.330000 0.330000
+newmtl azzurro
+	Kd 0.35 0.69 0.71
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
 
-newmtl Metal_Gris
-Ka 0.000000 0.000000 0.000000
-Kd 0.701961 0.701961 0.701961
-Ks 0.330000 0.330000 0.330000
+newmtl nero_ruote
+	Kd 0.00 0.00 0.00
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
 
-newmtl Plastic_RoulementPneu
-Ka 0.000000 0.000000 0.000000
-Kd 0.231373 0.231373 0.231373
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Plastic_RoulementPneu.png
+newmtl metalizzato
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 1.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
 
-newmtl Plactic_FlancPneu
-Ka 0.000000 0.000000 0.000000
-Kd 0.188235 0.188235 0.188235
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Plactic_FlancPneu.png
+newmtl vetro
+	Kd 0.95 0.95 0.95
+	Ks 1.00 1.00 1.00
+	Tr 1.00
+	d 0.00
+	Tf 0.86 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
 
-newmtl Metal_Bronze
-Ka 0.000000 0.000000 0.000000
-Kd 0.431373 0.443137 0.270588
-Ks 0.330000 0.330000 0.330000
+newmtl 7___Default
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
 
-newmtl Plastic_NoirMatte
-Ka 0.000000 0.000000 0.000000
-Kd 0.094118 0.094118 0.094118
-Ks 0.330000 0.330000 0.330000
+newmtl luci
+	Kd 0.69 0.64 0.00
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.95 0.95 0.22
+	illum 2
 
-newmtl FrontColor
-Ka 0.000000 0.000000 0.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.330000 0.330000 0.330000
+newmtl bianco_cerchi
+	Kd 0.72 0.72 0.72
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.40
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
 
-newmtl MetalPaint_Bleu_Fiat
-Ka 0.000000 0.000000 0.000000
-Kd 0.752941 0.886275 0.886275
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/MetalPaint_Bleu_Fiat.png
+newmtl grigio_poltrone
+	Kd 0.18 0.18 0.18
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
 
-newmtl MetalPaint_Bleu_Fiat_2
-Ka 0.000000 0.000000 0.000000
-Kd 0.752941 0.886275 0.886275
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/MetalPaint_Bleu_Fiat_2.png
+newmtl arancione
+	Kd 0.78 0.20 0.08
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.19 0.04 0.00
+	illum 2
 
-newmtl MetalPaint_Bleu_Fiat_2_1_
-Ka 0.000000 0.000000 0.000000
-Kd 0.752941 0.886275 0.886275
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/MetalPaint_Bleu_Fiat_2_1_.png
-
-newmtl MetalPaint_Bleu_Fiat_2_2_
-Ka 0.000000 0.000000 0.000000
-Kd 0.752941 0.886275 0.886275
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/MetalPaint_Bleu_Fiat_2_2_.png
-
-newmtl MetalPaint_GrilleINMoteur_Bleu_Fiat
-Ka 0.000000 0.000000 0.000000
-Kd 0.541176 0.631373 0.631373
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/MetalPaint_GrilleINMoteur_Bleu_Fiat.png
-
-newmtl Plastic_WireMesh
-Ka 0.000000 0.000000 0.000000
-Kd 0.450980 0.450980 0.450980
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Plastic_WireMesh.png
-
-newmtl Metal_Noir
-Ka 0.000000 0.000000 0.000000
-Kd 0.094118 0.094118 0.094118
-Ks 0.330000 0.330000 0.330000
-
-newmtl Plastic_LogoFiat
-Ka 0.000000 0.000000 0.000000
-Kd 0.345098 0.329412 0.329412
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Plastic_LogoFiat.png
-
-newmtl Plastic_NoirBrillant
-Ka 0.000000 0.000000 0.000000
-Kd 0.094118 0.094118 0.094118
-Ks 0.330000 0.330000 0.330000
-
-newmtl Plactic_Volant
-Ka 0.000000 0.000000 0.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Plastic_Fiat_Logo
-Ka 0.000000 0.000000 0.000000
-Kd 0.737255 0.600000 0.658824
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Plastic_Fiat_Logo.png
-
-newmtl Emissive_Compteur
-Ka 0.000000 0.000000 0.000000
-Kd 0.356863 0.329412 0.325490
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Emissive_Compteur.png
-
-newmtl Metal_GrisSombre2
-Ka 0.000000 0.000000 0.000000
-Kd 0.211765 0.211765 0.211765
-Ks 0.330000 0.330000 0.330000
-
-newmtl Metal_AcierDepoli
-Ka 0.000000 0.000000 0.000000
-Kd 0.039216 0.039216 0.039216
-Ks 0.330000 0.330000 0.330000
-
-newmtl Plastic_CaoutchoucNoir
-Ka 0.000000 0.000000 0.000000
-Kd 0.094118 0.094118 0.094118
-Ks 0.330000 0.330000 0.330000
-
-newmtl Plastic_GrisSombre
-Ka 0.000000 0.000000 0.000000
-Kd 0.070588 0.070588 0.070588
-Ks 0.330000 0.330000 0.330000
-
-newmtl Metal_Mirroir
-Ka 0.000000 0.000000 0.000000
-Kd 0.000000 0.000000 0.000000
-Ks 0.330000 0.330000 0.330000
-
-newmtl Fabric_CapoteNoir
-Ka 0.000000 0.000000 0.000000
-Kd 0.094118 0.094118 0.094118
-Ks 0.330000 0.330000 0.330000
-
-newmtl Glass_Blanc_Vitrages
-Ka 0.000000 0.000000 0.000000
-Kd 0.392157 0.392157 0.392157
-Ks 0.330000 0.330000 0.330000
-d 0.000000
-
-newmtl Emissive_Light_FeuxAR
-Ka 0.000000 0.000000 0.000000
-Kd 0.509804 0.286275 0.239216
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Emissive_Light_FeuxAR.png
-
-newmtl Glass_Gris_FeuxPositions
-Ka 0.000000 0.000000 0.000000
-Kd 0.400000 0.400000 0.400000
-Ks 0.330000 0.330000 0.330000
-d 0.500000
-
-newmtl Emissive_Light_PhareAV
-Ka 0.000000 0.000000 0.000000
-Kd 0.368627 0.427451 0.478431
-Ks 0.330000 0.330000 0.330000
-d 0.700000
-map_Kd auto/Emissive_Light_PhareAV.png
-
-newmtl Glass_OrangeClignotant
-Ka 0.000000 0.000000 0.000000
-Kd 0.764706 0.384314 0.066667
-Ks 0.330000 0.330000 0.330000
-d 0.900000
-
-newmtl MetalPaint_GrilleOUTMoteur_Bleu_Fiat
-Ka 0.000000 0.000000 0.000000
-Kd 0.721569 0.847059 0.847059
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/MetalPaint_GrilleOUTMoteur_Bleu_Fiat.png
-
-newmtl Fabric_PorteInterieure
-Ka 0.000000 0.000000 0.000000
-Kd 0.227451 0.227451 0.227451
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Fabric_PorteInterieure.png
-
-newmtl Emissive_Light_Plaque_PoliceAR
-Ka 0.000000 0.000000 0.000000
-Kd 0.207843 0.200000 0.227451
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Emissive_Light_Plaque_PoliceAR.png
-
-newmtl Plastic_PlaquePoliceAR
-Ka 0.000000 0.000000 0.000000
-Kd 0.352941 0.352941 0.352941
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Plastic_PlaquePoliceAR.png
-
-newmtl Fabric_Siege
-Ka 0.000000 0.000000 0.000000
-Kd 0.223529 0.223529 0.223529
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Fabric_Siege.png
-
-newmtl Plastic_PlaquePoliceAV
-Ka 0.000000 0.000000 0.000000
-Kd 0.333333 0.333333 0.333333
-Ks 0.330000 0.330000 0.330000
-map_Kd auto/Plastic_PlaquePoliceAV.png
-
+newmtl rosso
+	Kd 0.97 0.06 0.04
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.20 0.03 0.03
+	illum 2
