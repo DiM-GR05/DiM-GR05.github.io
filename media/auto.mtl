@@ -1,0 +1,362 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 09.02.2023 13:28:17
+
+newmtl PLASTICO_NEGRO
+	Kd 0.00 0.00 0.00
+	Ks 0.00 0.00 0.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.50
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl espejo_faros_fia
+	Kd 0.00 0.00 0.00
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl ESPEJO_FAROS
+	Kd 0.00 0.00 0.00
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Fiat_Logo
+	Kd 0.02 0.02 0.02
+	Ks 0.00 0.00 0.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Material__131
+	Kd 0.41 0.00 0.00
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl vidrios
+	Kd 0.21 0.21 0.21
+	Ks 0.40 0.40 0.40
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl chrome
+	Kd 0.00 0.00 0.00
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.02
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl _Stainless_Steel
+	Kd 0.14 0.14 0.14
+	Ks 0.16 0.16 0.16
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.20
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl glass_orange_bum
+	Kd 1.00 0.39 0.00
+	Ks 0.96 0.96 0.96
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Material__187
+	Kd 1.00 1.00 1.00
+	Ks 1.00 1.00 1.00
+	Tr 1.00
+	d 0.00
+	Tf 0.69 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl vidros__spec_tra
+	Kd 0.31 0.31 0.31
+	Ks 0.53 0.53 0.53
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.70
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl fundo__spec_
+	Kd 0.30 0.30 0.30
+	Ks 0.53 0.53 0.53
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.90
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl motor2__spec_
+	Kd 0.30 0.30 0.30
+	Ks 0.53 0.53 0.53
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.90
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl piel_negra
+	Kd 0.00 0.00 0.00
+	Ks 0.02 0.02 0.02
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.30
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Material__190
+	Kd 0.00 0.00 0.00
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl motor__spec_
+	Kd 0.30 0.30 0.30
+	Ks 0.53 0.53 0.53
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.90
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl black_plastic_Fi
+	Kd 0.02 0.02 0.02
+	Ks 0.00 0.00 0.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Material__192
+	Kd 0.14 0.14 0.14
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Material__189
+	Kd 0.02 0.02 0.02
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Material__188
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 1.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Default
+	Kd 0.70 0.70 0.70
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.50
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl wire_214229166
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.84 0.90 0.65
+	Kd 0.84 0.90 0.65
+	Ks 0.35 0.35 0.35
+
+newmtl Fiat_500_MTORNIL
+	Kd 0.07 0.07 0.07
+	Ks 0.02 0.02 0.02
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.20
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Fiat_500_PLACA
+	Kd 0.22 0.22 0.22
+	Ks 0.00 0.00 0.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.10
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Material__193
+	Kd 0.01 0.00 0.00
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl VIDRIO_REFLECTIV
+	Kd 0.00 0.00 0.00
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
