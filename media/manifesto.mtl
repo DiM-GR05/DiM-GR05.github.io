@@ -14,4 +14,4 @@ newmtl Material__45
 	Ni 1.519999980927
 	Ke 0.000000000000 0.000000000000 0.000000000000
 	illum 2
-	map_Kd -bm 0.000000000000 maps\manifesto.tga
+	map_Kd manifesto.png
